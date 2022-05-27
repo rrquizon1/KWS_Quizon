@@ -3,6 +3,7 @@ Transformer keyword spotting project. To be submitted as requirement 03 for EE29
 
 
 ## Requirements
+```
 pip install pytorch-lightning --upgrade
 pip install torchmetrics --upgrade
 pip install torch
@@ -15,3 +16,4 @@ pip install einops
 pip install torchmetrics
 pip install torchaudio
 pip install torchvision
+```
