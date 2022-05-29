@@ -1,0 +1,13 @@
+pytorch-lightning 
+torchmetrics
+torch
+sys
+librosa
+argparse
+numpy
+wandb
+einops
+torchmetrics
+torchaudio
+torchvision
+transforms
