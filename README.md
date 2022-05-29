@@ -22,5 +22,5 @@ Run train.py to train the transformer model. The output file "model_scripted_fin
 
 ## Inference
 
-RUn kws-infer.py to use the "model_scripted_final_87%.pt" for keyword spotting using your own voice. Please change --checkpoint to chagne the pt file to be used for inference.
+RUn kws-infer.py to use the "model_scripted_final_87%.pt" for keyword spotting using your own voice. Please change --checkpoint to change the pt file to be used for inference.
 
