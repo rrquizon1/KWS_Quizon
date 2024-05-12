@@ -1,5 +1,5 @@
 # KWS_Quizon
-Transformer keyword spotting project. To be submitted as requirement 03 for EE298 Second Sem 2021-2022.
+Transformer keyword spotting project. To be submitted as requirement 03 for EE298 Second Sem 2021-2022 of Master of Engineering of Electrical Engineering program from University of the Philippines Diliman
 
 
 ## Requirements
